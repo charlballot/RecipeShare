@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\data\\recipecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\data\\recipecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBD3B4-9568-B13A-2096-A983B489C545}|RecipeShare.Tests\\RecipeShare.Tests.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare.tests\\controllers\\recipescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DBD3B4-9568-B13A-2096-A983B489C545}|RecipeShare.Tests\\RecipeShare.Tests.csproj|solutionrelative:recipeshare.tests\\controllers\\recipescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3796B455-4A7E-59B7-437A-60B3314E3B9A}|RecipeShare.Benchmarks\\RecipeShare.Benchmarks.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare.benchmarks\\recipesharebenchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3796B455-4A7E-59B7-437A-60B3314E3B9A}|RecipeShare.Benchmarks\\RecipeShare.Benchmarks.csproj|solutionrelative:recipeshare.benchmarks\\recipesharebenchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DBD3B4-9568-B13A-2096-A983B489C545}|RecipeShare.Tests\\RecipeShare.Tests.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare.tests\\models\\recipevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30DBD3B4-9568-B13A-2096-A983B489C545}|RecipeShare.Tests\\RecipeShare.Tests.csproj|solutionrelative:recipeshare.tests\\models\\recipevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\dtos\\recipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3796B455-4A7E-59B7-437A-60B3314E3B9A}|RecipeShare.Benchmarks\\RecipeShare.Benchmarks.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare.benchmarks\\scripts\\performancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3796B455-4A7E-59B7-437A-60B3314E3B9A}|RecipeShare.Benchmarks\\RecipeShare.Benchmarks.csproj|solutionrelative:recipeshare.benchmarks\\scripts\\performancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\validation\\validdietarytags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\validation\\validdietarytags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\validation\\validingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\validation\\validingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\validation\\validsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\validation\\validsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\dtos\\updaterecipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\dtos\\updaterecipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\dtos\\createrecipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\dtos\\createrecipedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|c:\\users\\charl\\onedrive\\dev\\offerzen\\recipeshare\\recipeshare\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{598B4D8E-2F06-48AE-9A5D-A0CFB5EDA671}|RecipeShare\\RecipeShare.csproj|solutionrelative:recipeshare\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecipesControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare.Tests\\Controllers\\RecipesControllerTests.cs",
+              "RelativeDocumentMoniker": "RecipeShare.Tests\\Controllers\\RecipesControllerTests.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare.Tests\\Controllers\\RecipesControllerTests.cs",
+              "RelativeToolTip": "RecipeShare.Tests\\Controllers\\RecipesControllerTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwE4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:06:47.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Program.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Program.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Program.cs",
+              "RelativeToolTip": "RecipeShare\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:20:22.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "RecipeShare\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:19:08.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\appsettings.json",
+              "RelativeDocumentMoniker": "RecipeShare\\appsettings.json",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\appsettings.json",
+              "RelativeToolTip": "RecipeShare\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-16T10:24:47.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipesController.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Controllers\\RecipesController.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Controllers\\RecipesController.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Controllers\\RecipesController.cs",
+              "RelativeToolTip": "RecipeShare\\Controllers\\RecipesController.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAgwIkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:26:23.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecipeValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare.Tests\\Models\\RecipeValidationTests.cs",
+              "RelativeDocumentMoniker": "RecipeShare.Tests\\Models\\RecipeValidationTests.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare.Tests\\Models\\RecipeValidationTests.cs",
+              "RelativeToolTip": "RecipeShare.Tests\\Models\\RecipeValidationTests.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:13:11.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecipeContext.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Data\\RecipeContext.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Data\\RecipeContext.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Data\\RecipeContext.cs",
+              "RelativeToolTip": "RecipeShare\\Data\\RecipeContext.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAADUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:50:28.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecipeDto.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\DTOs\\RecipeDto.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\DTOs\\RecipeDto.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\DTOs\\RecipeDto.cs",
+              "RelativeToolTip": "RecipeShare\\DTOs\\RecipeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:39:24.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeShareBenchmark.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare.Benchmarks\\RecipeShareBenchmark.cs",
+              "RelativeDocumentMoniker": "RecipeShare.Benchmarks\\RecipeShareBenchmark.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare.Benchmarks\\RecipeShareBenchmark.cs",
+              "RelativeToolTip": "RecipeShare.Benchmarks\\RecipeShareBenchmark.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:28:34.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidIngredients.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Validation\\ValidIngredients.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Validation\\ValidIngredients.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Validation\\ValidIngredients.cs",
+              "RelativeToolTip": "RecipeShare\\Validation\\ValidIngredients.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:19:11.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValidSteps.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Validation\\ValidSteps.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Validation\\ValidSteps.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Validation\\ValidSteps.cs",
+              "RelativeToolTip": "RecipeShare\\Validation\\ValidSteps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:25:41.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidDietaryTags.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Validation\\ValidDietaryTags.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Validation\\ValidDietaryTags.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Validation\\ValidDietaryTags.cs",
+              "RelativeToolTip": "RecipeShare\\Validation\\ValidDietaryTags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T13:29:51.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerformanceTest.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare.Benchmarks\\Scripts\\PerformanceTest.cs",
+              "RelativeDocumentMoniker": "RecipeShare.Benchmarks\\Scripts\\PerformanceTest.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare.Benchmarks\\Scripts\\PerformanceTest.cs",
+              "RelativeToolTip": "RecipeShare.Benchmarks\\Scripts\\PerformanceTest.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAYwC0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T14:39:24.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Data\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Data\\DataSeeder.cs",
+              "RelativeToolTip": "RecipeShare\\Data\\DataSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:58:16.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateRecipeDto.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\DTOs\\UpdateRecipeDto.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\DTOs\\UpdateRecipeDto.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\DTOs\\UpdateRecipeDto.cs",
+              "RelativeToolTip": "RecipeShare\\DTOs\\UpdateRecipeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:47:22.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateRecipeDto.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\DTOs\\CreateRecipeDto.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\DTOs\\CreateRecipeDto.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\DTOs\\CreateRecipeDto.cs",
+              "RelativeToolTip": "RecipeShare\\DTOs\\CreateRecipeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:42:41.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "RecipeShare\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\charl\\OneDrive\\Dev\\OfferZen\\RecipeShare\\RecipeShare\\Models\\Recipe.cs",
+              "RelativeToolTip": "RecipeShare\\Models\\Recipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:01:49.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
